@@ -1,6 +1,6 @@
 # Firefds Kit [R]
 
-Xposed module for Samsung R devices.
+Xposed module for Samsung R (Android 11) devices.
 
 ## Features
 The module has the following features:
